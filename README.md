@@ -14,6 +14,35 @@
 </p>
 </div>
 
+# My Progress (Added by Hassan Attar)
+<pre>
+This part is added by Hassan Attar on April 26, 2024:
+Notation:
+  In Progress:   ⏯️⏯️⏯️
+  Completed:     ✅✅✅
+</pre>
+
+- Prerequisites
+- Intro CS
+  - [Introduction to programming](coursepages/intro-programming/README.md) ⏯️⏯️⏯️
+  - Introduction to Computer Science
+- Core CS
+  - Core programming
+  - Core math
+  - CS Tools
+  - Core systems
+  - Core theory
+  - Core security
+  - Core applications
+  - Core ethics
+- Advanced CS
+  - Advanced programming
+  - Advanced systems
+  - Advanced theory
+  - Advanced information security
+  - Advanced math
+- Final project
+
 # Contents
 
 - [Summary](#summary)
