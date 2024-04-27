@@ -4,10 +4,10 @@ Notation:
   Completed: ✅✅✅
 __________________
 ## Course: CS50P (Introduction to Programming with Python)
-0. Functions, Variables
-1. Conditionals
-2. Loops
-3. Exceptions
+0. Functions, Variables ✅✅✅
+1. Conditionals ✅✅✅
+2. Loops ✅✅✅
+3. Exceptions ✅✅✅
 4. Libraries ✅✅✅
 5. Unit Tests ✅✅✅
 6. File I/O ✅✅✅
