@@ -7,7 +7,7 @@ Notation:
   Completed:        ✅✅✅   (Content that I have finished studying and gained adequate proficiency)
 </pre>
 
-## Course: CS50P (Introduction to Programming with Python) 🎓🎓🎓
+### Course: CS50P (Introduction to Programming with Python) 🎓🎓🎓
 0. Functions, Variables ✅✅✅
 1. Conditionals ✅✅✅
 2. Loops ✅✅✅
@@ -19,7 +19,7 @@ Notation:
 8. Object-Oriented Programming
 9. Et Cetera
 __________________
-## Course: Python for Everybody 🎓🎓🎓
+### Course: Python for Everybody 🎓🎓🎓
 1. Installing Python
 2. Why Program?
 3. Variables, expressions and statements
