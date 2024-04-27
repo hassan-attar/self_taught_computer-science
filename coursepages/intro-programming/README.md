@@ -1,9 +1,13 @@
+# My Progress (Added by Hassan Attar)
 <pre>
 This part is added by Hassan Attar on April 26, 2024:
 Notation:
-  Completed: ✅✅✅
-__________________
-## Course: CS50P (Introduction to Programming with Python)
+  Prior Knowledge:  🎓🎓🎓   (Content that I previously studied or was covered in a previous educational program or experience)
+  In Progress:      ⏯️⏯️⏯️   (Content that I am currently working on)
+  Completed:        ✅✅✅   (Content that I have finished studying and gained adequate proficiency)
+</pre>
+
+## Course: CS50P (Introduction to Programming with Python) 🎓🎓🎓
 0. Functions, Variables ✅✅✅
 1. Conditionals ✅✅✅
 2. Loops ✅✅✅
@@ -15,7 +19,7 @@ __________________
 8. Object-Oriented Programming
 9. Et Cetera
 __________________
-## Course: Python for Everybody
+## Course: Python for Everybody 🎓🎓🎓
 1. Installing Python
 2. Why Program?
 3. Variables, expressions and statements
@@ -33,7 +37,7 @@ __________________
 15. Object-Oriented Programming (Optional)
 16. Databases (Optional)
 17. Data Visualization (Optional)
-</pre>
+
 
 # Introduction to Programming
 
