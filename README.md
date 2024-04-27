@@ -18,19 +18,20 @@
 <pre>
 This part is added by Hassan Attar on April 26, 2024:
 Notation:
-  In Progress:   ⏯️⏯️⏯️
-  Completed:     ✅✅✅
+  Prior Knowledge:  🎓🎓🎓   (Content that I previously studied or was covered in a previous educational program or experience)
+  In Progress:      ⏯️⏯️⏯️   (Content that I am currently working on)
+  Completed:        ✅✅✅   (Content that I have finished studying and gained adequate proficiency)
 </pre>
 
 - Prerequisites
-- Intro CS
-  - [Introduction to programming](coursepages/intro-programming/README.md) ⏯️⏯️⏯️
-  - Introduction to Computer Science
-- Core CS
-  - Core programming
+- Intro CS 🎓🎓🎓
+  - [Introduction to programming](coursepages/intro-programming/README.md) 🎓🎓🎓 ⏯️⏯️⏯️
+  - Introduction to Computer Science 🎓🎓🎓
+- Core CS 🎓🎓🎓
+  - Core programming 
   - Core math
-  - CS Tools
-  - Core systems
+  - CS Tools 
+  - Core systems 
   - Core theory
   - Core security
   - Core applications
