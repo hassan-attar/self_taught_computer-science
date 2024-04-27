@@ -28,7 +28,7 @@ This course has been developed by the CS50 team at Harvard University.
 1. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/) — [Notes](https://cs50.harvard.edu/python/2022/notes/1/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/)
 2. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/) — [Notes](https://cs50.harvard.edu/python/2022/notes/2/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/)
 3. [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/) — [Notes](https://cs50.harvard.edu/python/2022/notes/3/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/)
-4. [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/) — [Notes](https://cs50.harvard.edu/python/2022/notes/4/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/4/)
+4. [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/) — [Notes](https://cs50.harvard.edu/python/2022/notes/4/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/4/)✅
 5. [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/) — [Notes](https://cs50.harvard.edu/python/2022/notes/5/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/5/)✅
 6. [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/) — [Notes](https://cs50.harvard.edu/python/2022/notes/6/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/6/)✅
 7. [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/) — [Notes](https://cs50.harvard.edu/python/2022/notes/7/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/7/)✅
