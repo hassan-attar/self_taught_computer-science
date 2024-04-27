@@ -1,3 +1,40 @@
+<pre>
+This part is added by Hassan Attar on April 26, 2024:
+Notation:
+  Completed: ✅✅✅
+__________________
+## Course: CS50P (Introduction to Programming with Python)
+0. Functions, Variables
+1. Conditionals
+2. Loops
+3. Exceptions
+4. Libraries ✅✅✅
+5. Unit Tests ✅✅✅
+6. File I/O ✅✅✅
+7. Regular Expressions ✅✅✅
+8. Object-Oriented Programming
+9. Et Cetera
+__________________
+## Course: Python for Everybody
+1. Installing Python
+2. Why Program?
+3. Variables, expressions and statements
+4. Conditional Execution
+5. Functions
+6. Loops and Iterations
+7. Strings
+8. Files ✅✅✅
+9. Lists
+10. Dictionaries
+11. Tuples
+12. Regular Expressions ✅✅✅
+13. Network Programming (Optional)
+14. Using Web Services (Optional)
+15. Object-Oriented Programming (Optional)
+16. Databases (Optional)
+17. Data Visualization (Optional)
+</pre>
+
 # Introduction to Programming
 
 If you've never written a for-loop, or don't know what a string is in programming, start here. These courses are self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
