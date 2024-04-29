@@ -1,3 +1,26 @@
+# My Progress (Added by Hassan Attar) ⏯️⏯️⏯️
+<pre>
+This part is added by Hassan Attar on April 29, 2024:
+Notation:
+  In Progress:      ⏯️⏯️⏯️   (Content that I am currently working on)
+  Completed:        ✅✅✅   (Content that I have finished studying and gained adequate proficiency)
+</pre>
+
+**Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
+### Course: Introduction to Computer Science and Programming Using Python - MIT 6.0001 | Undergraduate ⏯️⏯️⏯️
+- Introduction to Python
+- Core Elements of Programs
+- Simple Algorithms
+- Functions
+- Tuples and Lists
+- Dictionaries
+- Testing and Debugging
+- Exceptions and Assertions
+- Classes and Inheritance
+- An Extended Example
+- Computational Complexity
+- Searching and Sorting Algorithms
+
 # Introduction to Computer Science
 
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
