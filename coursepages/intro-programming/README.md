@@ -1,4 +1,4 @@
-# My Progress (Added by Hassan Attar)
+# My Progress (Added by Hassan Attar) ✅✅✅
 <pre>
 This part is added by Hassan Attar on April 26, 2024:
 Notation:
@@ -18,7 +18,7 @@ Notation:
 8. Object-Oriented Programming ✅✅✅
 9. Et Cetera ✅✅✅
 __________________
-### Course: Python for Everybody ⏯️⏯️⏯️
+### Course: Python for Everybody ✅✅✅
 1. Installing Python
 2. Why Program?
 3. Variables, expressions and statements
@@ -35,7 +35,7 @@ __________________
 14. Using Web Services (Optional) ✅✅✅
 15. Object-Oriented Programming (Optional) ✅✅✅
 16. Databases (Optional) ✅✅✅
-17. Data Visualization (Optional)
+17. Data Visualization (Optional) ✅✅✅
 
 
 # Introduction to Programming
