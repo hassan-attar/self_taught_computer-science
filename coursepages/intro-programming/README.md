@@ -32,9 +32,9 @@ __________________
 11. Tuples
 12. Regular Expressions ✅✅✅
 13. Network Programming (Optional) ✅✅✅
-14. Using Web Services (Optional)
-15. Object-Oriented Programming (Optional)
-16. Databases (Optional)
+14. Using Web Services (Optional) ✅✅✅
+15. Object-Oriented Programming (Optional) ✅✅✅
+16. Databases (Optional) ✅✅✅
 17. Data Visualization (Optional)
 
 
