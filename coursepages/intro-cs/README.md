@@ -8,7 +8,7 @@ Notation:
 
 **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
 ### Course: Introduction to Computer Science and Programming Using Python - MIT 6.0001 | Undergraduate ⏯️⏯️⏯️
-- Introduction to Python
+- Introduction to Python ✅✅✅
 - Core Elements of Programs
 - Simple Algorithms
 - Functions
