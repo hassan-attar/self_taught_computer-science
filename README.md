@@ -18,7 +18,7 @@
 <pre>
 This part is added by Hassan Attar on April 26, 2024:
 Notation:
-  Prior Knowledge:  🎓🎓🎓   (Content that I previously studied or was covered in a previous educational program or experience)
+  Prior Knowledge:  🎓🎓🎓   (Content that I previously studied OR was covered in a past educational program or experience)
   In Progress:      ⏯️⏯️⏯️   (Content that I am currently working on)
   Completed:        ✅✅✅   (Content that I have finished studying and gained adequate proficiency)
 </pre>
