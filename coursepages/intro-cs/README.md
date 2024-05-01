@@ -12,6 +12,7 @@ Notation:
 - Core Elements of Programs ✅✅✅
 - Simple Algorithms ✅✅✅
 - Functions ✅✅✅
+- Problem Set 2 ✅✅✅
 - Tuples and Lists
 - Dictionaries
 - Testing and Debugging
