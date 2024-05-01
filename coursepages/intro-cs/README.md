@@ -11,7 +11,7 @@ Notation:
 - Introduction to Python ✅✅✅
 - Core Elements of Programs ✅✅✅
 - Simple Algorithms ✅✅✅
-- Functions
+- Functions ✅✅✅
 - Tuples and Lists
 - Dictionaries
 - Testing and Debugging
