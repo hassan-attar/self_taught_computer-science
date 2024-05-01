@@ -10,6 +10,7 @@ Notation:
 ### Course: Introduction to Computer Science and Programming Using Python - MIT 6.0001 | Undergraduate ⏯️⏯️⏯️
 - Introduction to Python ✅✅✅
 - Core Elements of Programs ✅✅✅
+- Problem Set 1 ✅✅✅
 - Simple Algorithms ✅✅✅
 - Functions ✅✅✅
 - Problem Set 2 ✅✅✅
