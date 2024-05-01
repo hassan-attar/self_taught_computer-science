@@ -15,7 +15,8 @@ Notation:
 - Functions ✅✅✅
 - Problem Set 2 ✅✅✅
 - Tuples and Lists ✅✅✅
-- Dictionaries
+- Dictionaries ✅✅✅
+- Problem Set 3 ✅✅✅
 - Testing and Debugging
 - Exceptions and Assertions
 - Classes and Inheritance
