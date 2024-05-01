@@ -14,7 +14,7 @@ Notation:
 - Simple Algorithms ✅✅✅
 - Functions ✅✅✅
 - Problem Set 2 ✅✅✅
-- Tuples and Lists
+- Tuples and Lists ✅✅✅
 - Dictionaries
 - Testing and Debugging
 - Exceptions and Assertions
