@@ -18,7 +18,8 @@ Notation:
 - Dictionaries ✅✅✅
 - Problem Set 3 ✅✅✅
 - Testing and Debugging ✅✅✅
-- Exceptions and Assertions
+- Exceptions and Assertions ✅✅✅
+- Problem Set 4 
 - Classes and Inheritance
 - An Extended Example
 - Computational Complexity
