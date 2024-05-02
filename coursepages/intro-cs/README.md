@@ -17,7 +17,7 @@ Notation:
 - Tuples and Lists ✅✅✅
 - Dictionaries ✅✅✅
 - Problem Set 3 ✅✅✅
-- Testing and Debugging
+- Testing and Debugging ✅✅✅
 - Exceptions and Assertions
 - Classes and Inheritance
 - An Extended Example
