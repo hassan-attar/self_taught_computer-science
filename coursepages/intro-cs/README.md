@@ -21,9 +21,11 @@ Notation:
 - Exceptions and Assertions ✅✅✅
 - Problem Set 4 ✅✅✅
 - Classes and Inheritance ✅✅✅
-- An Extended Example
-- Computational Complexity
+- An Extended Example ✅✅✅
+- Problem Set 5 
+- Computational Complexity ✅✅✅
 - Searching and Sorting Algorithms
+- Problem Set 6
 
 # Introduction to Computer Science
 
