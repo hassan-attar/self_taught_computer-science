@@ -1,4 +1,4 @@
-# My Progress (Added by Hassan Attar) ⏯️⏯️⏯️
+# My Progress (Added by Hassan Attar) ✅✅✅
 <pre>
 This part is added by Hassan Attar on April 29, 2024:
 Notation:
@@ -7,7 +7,7 @@ Notation:
 </pre>
 
 **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
-### Course: Introduction to Computer Science and Programming Using Python - MIT 6.0001 | Undergraduate ⏯️⏯️⏯️
+### Course: Introduction to Computer Science and Programming Using Python - MIT 6.0001 | Undergraduate ✅✅✅ 
 - Introduction to Python ✅✅✅
 - Core Elements of Programs ✅✅✅
 - Problem Set 1 ✅✅✅
@@ -26,7 +26,7 @@ Notation:
 - Computational Complexity ✅✅✅
 - Searching and Sorting Algorithms ✅✅✅
 - Problem Set 6 ✅✅✅
-- Plotting using pylab
+- Data Visualization and Plotting using pylab ✅✅✅
 
 # Introduction to Computer Science
 
