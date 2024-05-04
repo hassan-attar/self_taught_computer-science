@@ -26,7 +26,7 @@ Notation:
 - Prerequisites
 - Intro CS 🎓🎓🎓
   - [Introduction to programming](coursepages/intro-programming/README.md) ✅✅✅
-  - [Introduction to Computer Science](coursepages/intro-cs/README.md) ⏯️⏯️⏯️
+  - [Introduction to Computer Science](coursepages/intro-cs/README.md) ✅✅✅
 - Core CS 🎓🎓🎓
   - Core programming 
   - Core math
