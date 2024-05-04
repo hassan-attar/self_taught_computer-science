@@ -22,10 +22,11 @@ Notation:
 - Problem Set 4 ✅✅✅
 - Classes and Inheritance ✅✅✅
 - An Extended Example ✅✅✅
-- Problem Set 5 
+- Problem Set 5 ✅✅✅
 - Computational Complexity ✅✅✅
-- Searching and Sorting Algorithms
-- Problem Set 6
+- Searching and Sorting Algorithms ✅✅✅
+- Problem Set 6 ✅✅✅
+- Plotting using pylab
 
 # Introduction to Computer Science
 
