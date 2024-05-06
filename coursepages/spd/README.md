@@ -9,7 +9,7 @@ Notation:
 **Course Link:** <https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015>
 ### Course: Systematic Program Design | UBC SPD1x ⏯️⏯️⏯️ 
 - Beginning Student Language ✅✅✅
-- How to Design Functions
+- How to Design Functions ✅✅✅
 - How to Design Data
 - How to Design Worlds
 - Compound Data
