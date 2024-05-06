@@ -1,3 +1,32 @@
+# My Progress (Added by Hassan Attar) ⏯️⏯️⏯️
+<pre>
+This part is added by Hassan Attar on May 5, 2024:
+Notation:
+  In Progress:      ⏯️⏯️⏯️   (Content that I am currently working on)
+  Completed:        ✅✅✅   (Content that I have finished studying and gained adequate proficiency)
+</pre>
+
+**Course Link:** <https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015>
+### Course: Systematic Program Design | UBC SPD1x ⏯️⏯️⏯️ 
+- Beginning Student Language
+- How to Design Functions
+- How to Design Data
+- How to Design Worlds
+- Compound Data
+- Self-Reference
+- Reference
+- Naturals
+- Helpers
+- Binary Search Trees
+- Mutual Reference
+- Two One-Of Types
+- Local
+- Abstraction
+- Generative Recursion
+- Search
+- Accumulators
+- Graphs
+
 # Systematic Program Design
 
 This course has been developed by UBC and is available from Edx. We recommend you to do it from the archived version on Edx.
