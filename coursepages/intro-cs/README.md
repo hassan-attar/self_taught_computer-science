@@ -28,9 +28,11 @@ Notation:
 - Problem Set 6 ✅✅✅
 - Data Visualization and Plotting using pylab ✅✅✅
 
+
 **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
 ### Course #2:  Introduction to Computational Thinking and Data Science - MIT 6.00.2x | Undergraduate
-***This course is not part of the original curriculum and was added by Hassan Attar***
+**This course is not part of the original curriculum and was added by Hassan Attar for later studies.**
+---------------
 - Optimization and the Knapsack Problem
 - Decision Trees and Dynamic Programming
 - Graph Problems
