@@ -1,4 +1,4 @@
-# My Progress (Added by Hassan Attar) ✅✅✅
+# My Progress (Added by Hassan Attar) ⏯️⏯️⏯️
 <pre>
 This part is added by Hassan Attar on April 29, 2024:
 Notation:
@@ -7,7 +7,7 @@ Notation:
 </pre>
 
 **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
-### Course: Introduction to Computer Science and Programming Using Python - MIT 6.0001 | Undergraduate ✅✅✅ 
+### Course #1: Introduction to Computer Science and Programming Using Python - MIT 6.00.1x | Undergraduate ✅✅✅ 
 - Introduction to Python ✅✅✅
 - Core Elements of Programs ✅✅✅
 - Problem Set 1 ✅✅✅
@@ -27,6 +27,27 @@ Notation:
 - Searching and Sorting Algorithms ✅✅✅
 - Problem Set 6 ✅✅✅
 - Data Visualization and Plotting using pylab ✅✅✅
+
+**Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
+### Course #2:  Introduction to Computational Thinking and Data Science - MIT 6.00.2x | Undergraduate ⏯️⏯️⏯️ 
+***This course is not part of the original curriculum and was added by Hassan Attar***
+- Optimization and the Knapsack Problem
+- Decision Trees and Dynamic Programming
+- Graph Problems
+- Problem Set 1
+- Plotting
+- Stochastic Thinking
+- Random Walks
+- Problem Set 2
+- Inferential Statistics
+- Monte Carlo Simulations
+- Sampling and Standard Error
+- Problem Set 3
+- Experimental Data Part 1
+- Experimental Data Part 2
+- Problem Set 4
+- Machine Learning
+- Statistical Fallacies
 
 # Introduction to Computer Science
 
