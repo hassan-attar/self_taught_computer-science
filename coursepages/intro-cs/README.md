@@ -1,4 +1,4 @@
-# My Progress (Added by Hassan Attar) ⏯️⏯️⏯️
+# My Progress (Added by Hassan Attar) ✅✅✅
 <pre>
 This part is added by Hassan Attar on April 29, 2024:
 Notation:
@@ -29,7 +29,7 @@ Notation:
 - Data Visualization and Plotting using pylab ✅✅✅
 
 **Course Link:** <https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home>
-### Course #2:  Introduction to Computational Thinking and Data Science - MIT 6.00.2x | Undergraduate ⏯️⏯️⏯️ 
+### Course #2:  Introduction to Computational Thinking and Data Science - MIT 6.00.2x | Undergraduate
 ***This course is not part of the original curriculum and was added by Hassan Attar***
 - Optimization and the Knapsack Problem
 - Decision Trees and Dynamic Programming
