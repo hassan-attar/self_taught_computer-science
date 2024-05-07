@@ -11,7 +11,7 @@ Notation:
 - Beginning Student Language ✅✅✅
 - How to Design Functions ✅✅✅
 - How to Design Data ✅✅✅
-- How to Design Worlds
+- How to Design Worlds ✅✅✅
 - Compound Data
 - Self-Reference
 - Reference
