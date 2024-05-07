@@ -10,7 +10,7 @@ Notation:
 ### Course: Systematic Program Design | UBC SPD1x ⏯️⏯️⏯️ 
 - Beginning Student Language ✅✅✅
 - How to Design Functions ✅✅✅
-- How to Design Data
+- How to Design Data ✅✅✅
 - How to Design Worlds
 - Compound Data
 - Self-Reference
