@@ -13,7 +13,7 @@ Notation:
 - How to Design Data ✅✅✅
 - How to Design Worlds ✅✅✅
 - Compound Data ✅✅✅
-- Self-Reference
+- Self-Reference ✅✅✅
 - Reference
 - Naturals
 - Helpers
