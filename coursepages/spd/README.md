@@ -12,7 +12,7 @@ Notation:
 - How to Design Functions ✅✅✅
 - How to Design Data ✅✅✅
 - How to Design Worlds ✅✅✅
-- Compound Data
+- Compound Data ✅✅✅
 - Self-Reference
 - Reference
 - Naturals
