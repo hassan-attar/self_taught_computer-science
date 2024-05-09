@@ -14,8 +14,8 @@ Notation:
 - How to Design Worlds ✅✅✅
 - Compound Data ✅✅✅
 - Self-Reference ✅✅✅
-- Reference
-- Naturals
+- Reference ✅✅✅
+- Naturals ✅✅✅
 - Helpers
 - Binary Search Trees
 - Mutual Reference
