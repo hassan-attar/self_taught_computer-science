@@ -16,7 +16,7 @@ Notation:
 - Self-Reference ✅✅✅
 - Reference ✅✅✅
 - Naturals ✅✅✅
-- Helpers
+- Helpers ✅✅✅
 - Binary Search Trees
 - Mutual Reference
 - Two One-Of Types
